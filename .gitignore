@@ -1,5 +1,4 @@
-/chat-server/node_modules
-/chat-server/dist
-/chatApp/node_modules
-/chatApp/dist
-.vscode/
+./chat-server/node_modules
+./chat-server/dist
+./chatApp/node_modules
+./chatApp/dist
